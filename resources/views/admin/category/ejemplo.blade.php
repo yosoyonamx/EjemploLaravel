@@ -34,7 +34,7 @@
 
                     <div class="row">
                         <div class="col card">
-                            <h1 class="text-center">Categorias</h1>
+                            <h1 class="text-center">Categorias s</h1>
                         </div>
                     </div>
 
